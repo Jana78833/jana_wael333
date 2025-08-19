@@ -23,8 +23,6 @@
       gap: 20px;
       padding: 0 40px 40px;
     }
-
-    /* الكارت */
     .card {
       background: #273545;
       border-radius: 15px;
@@ -58,7 +56,6 @@
       color: #d35400;
     }
 
-    /* موبايل */
     @media (max-width: 600px) {
       .food-grid,
       .drink-grid,
@@ -71,6 +68,7 @@
         height: 160px;
       }
     }
+
 
 
 
